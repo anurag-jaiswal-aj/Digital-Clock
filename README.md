@@ -11,6 +11,7 @@ Features:
 How to Use:
 
 1)Clone the Repository.
+
 2)Dive into the world of timekeeping elegance by opening the index.html file in your preferred web browser.
 
 Explore the code, master time with the digital clock, and share your feedback! Your insights are valuable for refining this project.
